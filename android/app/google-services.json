@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69502426278",
+    "firebase_url": "https://reactfireauth-f6664.firebaseio.com",
+    "project_id": "reactfireauth-f6664",
+    "storage_bucket": "reactfireauth-f6664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69502426278:android:03fe2359c948a852",
+        "android_client_info": {
+          "package_name": "com.reactfireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69502426278-mn0matf10dia6h2qn2ueue2hvdaa5o00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfiZeCQUBh70C4mJ60g4q3ZgS2fiWYtgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69502426278-mn0matf10dia6h2qn2ueue2hvdaa5o00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
